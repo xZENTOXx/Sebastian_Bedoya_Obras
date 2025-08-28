@@ -4,6 +4,11 @@ public class Carro
     public String? Nombre = "";
     public String? Nacionalidad = "";
 }
+public class moto
+{
+    public String? Nombre = "";
+    public String? Nacionalidad = "";
+}
 
 public class Autor
 {
