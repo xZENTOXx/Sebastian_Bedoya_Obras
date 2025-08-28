@@ -1,10 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-public class Carro
-{
-    public String? Nombre = "";
-    public String? Nacionalidad = "";
-}
-public class moto
+public class Motocicleta
 {
     public String? Nombre = "";
     public String? Nacionalidad = "";
