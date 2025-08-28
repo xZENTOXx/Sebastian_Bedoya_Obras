@@ -1,4 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
+public class Carro
+{
+    public String? Nombre = "";
+    public String? Nacionalidad = "";
+}
+
 public class Autor
 {
     public int idAutor = 0;
