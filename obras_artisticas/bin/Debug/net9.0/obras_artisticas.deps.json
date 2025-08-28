@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "obras_artisticas/1.0.0": {
+        "runtime": {
+          "obras_artisticas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "obras_artisticas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

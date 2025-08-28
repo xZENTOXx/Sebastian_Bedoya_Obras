@@ -1,4 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
+public class Pais
+{
+
+    public String? Nombre = "";
+
+}
 public class Autor
 {
     public int idAutor = 0;

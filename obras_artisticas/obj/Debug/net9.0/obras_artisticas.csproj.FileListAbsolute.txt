@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\bin\Debug\net9.0\obras_artisticas.exe
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\bin\Debug\net9.0\obras_artisticas.deps.json
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\bin\Debug\net9.0\obras_artisticas.runtimeconfig.json
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\bin\Debug\net9.0\obras_artisticas.dll
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\bin\Debug\net9.0\obras_artisticas.pdb
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\obj\Debug\net9.0\obras_artisticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\obj\Debug\net9.0\obras_artisticas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\obj\Debug\net9.0\obras_artisticas.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\obj\Debug\net9.0\obras_artisticas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\obj\Debug\net9.0\obras_artisticas.sourcelink.json
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\obj\Debug\net9.0\obras_artisticas.dll
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\obj\Debug\net9.0\refint\obras_artisticas.dll
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\obj\Debug\net9.0\obras_artisticas.pdb
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\obj\Debug\net9.0\obras_artisticas.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\Programación\Sebastian_Bedoya_Obras\obras_artisticas\obj\Debug\net9.0\ref\obras_artisticas.dll
